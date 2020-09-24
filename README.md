@@ -10,10 +10,10 @@ DESCRIPTION: Roomiez is an online website where users can
 
 TOOLS NECESSARY:
 
-Java IDE (IntelliJ IDEA)
-postgreSQL 
-Tomcat 9.0
-000webhost
+*Java IDE (IntelliJ IDEA)
+*postgreSQL 
+*Tomcat 9.0
+*000webhost
 
 
 
