@@ -12,8 +12,9 @@ DESCRIPTION: Roomiez is an online website where users can meet people that are l
 
 TOOLS NECESSARY:
 
-* Java IDE (IntelliJ IDEA)
-* postgreSQL 
+* Java IDE - IntelliJ IDEA 
+* Spring Framework
+* postgreSQL Database
 * Tomcat 9.0
 * 000webhost
 
